@@ -29,6 +29,7 @@ namespace TestNinja.UnitTests
         [Test]
         public void max_FirstArgumentIsGreater_ReturnTheFirstArgument()
         {
+            //teste
             //Act
             var result = _math.Max(2, 1);
                  
