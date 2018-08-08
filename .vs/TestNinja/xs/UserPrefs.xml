@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{630B336C-37B5-481A-A20C-B14ECAE6C000}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestNinja.UnitTests/MathTests.cs">
+    <Files>
+      <File FileName="TestNinja.UnitTests/ReservationTests.cs" Line="16" Column="18" />
+      <File FileName="TestNinja/Fundamentals/Math.cs" Line="7" Column="23" />
+      <File FileName="TestNinja.UnitTests/MathTests.cs" Line="23" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TestNinja" expanded="True">
+            <Node name="TestNinja.UnitTests" expanded="True">
+              <Node name="TestNinja" expanded="True">
+                <Node name="UnitTests" expanded="True">
+                  <Node name="MathTests" expanded="True">
+                    <Node name="max_ArgumentsAreEqual_ReturnTheArguments" selected="True" />
+                  </Node>
+                  <Node name="ReservationClass" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestNinja.UnitTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
