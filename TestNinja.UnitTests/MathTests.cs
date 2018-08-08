@@ -31,7 +31,7 @@ namespace TestNinja.UnitTests
         {
             //Act
             var result = _math.Max(2, 1);
-
+                 
             //Assert
             Assert.That(result, Is.EqualTo(2));
         }
